@@ -7,5 +7,13 @@ About me
 - 👀 I’m interested in languages, writing programs, books and acquiring knowledge.
 - 🌱 I’m currently learning Mobile Development, English and French.
 
+<br/>
+
+<a href="https://github.com/EnzoGatica">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MargaritaNunez&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaritanunez&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
  
